@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * _prompt - display prompt
+ * prompt - display prompt
  */
-void _prompt(void)
+void prompt(void)
 {
 	_puts(PROMPT);
 }

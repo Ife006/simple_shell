@@ -8,7 +8,7 @@
  * Return: number of printed char
  */
 
-int _puts(char *prmStr)
+int puts(char *prmStr)
 {
 	int i = 0, sum = 0;
 
